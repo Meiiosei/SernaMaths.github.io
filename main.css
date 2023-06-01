@@ -1,0 +1,17 @@
+body {
+
+
+font-family: Andale Mono,monospace;
+background: rgb(31, 16, 101);
+background: linear-gradient(90deg, rgba(31, 16, 101, 1) 0%, rgba(39, 120, 133, 1) 50%, rgba(199, 246, 255, 1) 97%);
+}
+
+h1 {
+
+    color : rgb(0, 0, 0);
+    font :  3em "Andale Mono", monospace;
+    text-align: center;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);;
+    margin: auto;
+    
+}
